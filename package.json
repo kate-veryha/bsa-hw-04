@@ -1,0 +1,27 @@
+{
+  "name": "bsa-hw-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kate-veryha/bsa-hw-04.git"
+  },
+  "author": "\"Kateryna Veryha\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kate-veryha/bsa-hw-04/issues"
+  },
+  "homepage": "https://github.com/kate-veryha/bsa-hw-04#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
